@@ -4,7 +4,19 @@
 
 About Me:
 <br>
-🔭 I’m currently learning and experimenting with  **TypeScript, Mongoose, Express**.<br>👯 I’m looking to collaborate on exciting web development projects.<br> 💬 Ask me about **HTML, CSS, and JavaScript, React.js, Next.js and TypeScript** — I love sharing knowledge!<br>⚡ Fun fact: I believe in the power of clean code and its impact on creating exceptional user experiences.
+🚀 Future Full-Stack Developer: Busy exploring TypeScript, Mongoose, and Express to get really good at making strong and big web apps.
+
+💡 Always Learning: Excited to learn new tech stuff to keep up with what's hot in web development.
+
+🌐 Web Lover: Really into making websites that look cool and work smoothly using HTML, CSS, and JavaScript. I focus on React.js, Next.js, and TypeScript for making modern and lively websites.
+
+🤝 Up for Teamwork: Would love to work together on interesting web projects to get better at what I do and bring in fresh ideas.
+
+💬 Happy to Share What I Know: I enjoy talking about HTML, CSS, JavaScript, React.js, Next.js, and TypeScript. Feel free to hit me up with questions, and let's figure things out together!
+
+⚙️ Keeping Code Neat: I strongly believe in writing code that's clean and easy to understand. It's not just about working, but making things look good too.
+
+🌟 Let's Code for a Purpose: I'm all about coding to make things better for people. It's not just about writing code but creating stuff that really helps others.
 
 
 ## 🌐 Socials:
