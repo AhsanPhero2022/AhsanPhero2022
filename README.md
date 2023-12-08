@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+*AhsanPhero2022#* 💫
+
+About Me:
+<br>
+🔭 I’m currently learning and experimenting with  **TypeScript, Mongoose, Express**.<br>👯 I’m looking to collaborate on exciting web development projects.<br> 💬 Ask me about **HTML, CSS, and JavaScript, React.js, Next.js and TypeScript** — I love sharing knowledge!<br>⚡ Fun fact: I believe in the power of clean code and its impact on creating exceptional user experiences.
 
 
 ## 🌐 Socials:
