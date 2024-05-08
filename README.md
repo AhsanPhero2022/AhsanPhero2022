@@ -1,4 +1,4 @@
-![GitHub Cover Image]([paste_the_image_url_here](https://i.postimg.cc/XNPpjkpH/Blue-Pink-Gradient-Fashion-Banner.png))
+[![MasterHead](https://i.postimg.cc/XNPpjkpH/Blue-Pink-Gradient-Fashion-Banner.png)]
 
 
 ### Hi there 👋 
