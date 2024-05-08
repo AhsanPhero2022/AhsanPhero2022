@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/XNPpjkpH/Blue-Pink-Gradient-Fashion-Banner.png)]
+![MasterHead](https://i.postimg.cc/XNPpjkpH/Blue-Pink-Gradient-Fashion-Banner.png)
 
 
 ### Hi there 👋 
@@ -7,7 +7,7 @@
 
 About Me:
 <br>
-🚀 Future Full-Stack Developer: Busy exploring TypeScript, Mongoose, and Express to get really good at making strong and big web apps.
+🚀 Future Full-Stack Developer: Busy exploring Next.js, TypeScript, Mongoose, and Express to get really good at making strong and big web apps.
 
 💡 Always Learning: Excited to learn new tech stuff to keep up with what's hot in web development.
 
