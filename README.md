@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/XNPpjkpH/Blue-Pink-Gradient-Fashion-Banner.png)
+![MasterHead]([https://i.postimg.cc/XNPpjkpH/Blue-Pink-Gradient-Fashion-Banner.png](https://lh3.googleusercontent.com/d/1qXCH5twx5VFOWkaBkzHIf-7oteJCrR6-))
 
 
 ### Hi there 👋 
